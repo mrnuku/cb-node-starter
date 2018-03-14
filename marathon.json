@@ -10,7 +10,7 @@
             "hostPort": 0,
             "protocol": "tcp",
             "servicePort": 10185,
-            "name": "cb-node-starter"
+            "name": "cb-node-starter-robs-fork"
         }],
         "type": "DOCKER",
         "volumes": [],
