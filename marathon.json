@@ -16,7 +16,7 @@
         "volumes": [],
         "docker":
         {
-            "image": "862349788439.dkr.ecr.eu-central-1.amazonaws.com/cb-node-starter:latest",
+            "image": "862349788439.dkr.ecr.eu-central-1.amazonaws.com/rob-hello-world:latest",
             "forcePullImage": true,
             "privileged": false,
             "parameters": []
